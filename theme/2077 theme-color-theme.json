@@ -7,7 +7,7 @@
 		"scope": [
 			"comment",
 			"punctuation.definition.comment",
-			"string.quoted.docstring.multi.python"
+			"string.quoted.docstring.multi.python"/
 		],
 		"settings": {
 		  "foreground": "#0098df",
@@ -664,9 +664,9 @@
 
 		// Scrollbar Control
 		"scrollbar.shadow":"#992293",
-		"scrollbarSlider.activeBackground":"#d31b77",
-		"scrollbarSlider.background":"#ee0077",
-		"scrollbarSlider.hoverBackground":"#5994CE",
+		"scrollbarSlider.activeBackground":"#d31b7777",
+		"scrollbarSlider.background":"#ee007777",
+		"scrollbarSlider.hoverBackground":"#5994CE77",
 
 		// Activity Bar
 		"activityBar.background": "#030d22",
